@@ -91,3 +91,6 @@ int frequency(char note)
   return(0);  // We looked through everything and didn't find it,
               // but we still need to return a value, so return 0.
 }
+
+
+//Reference: https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-11-using-a-piezo-buzzer
