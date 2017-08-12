@@ -3,4 +3,4 @@ use Arduino UNO
 motor
 sound sensor
 breadboard
-shift register
+SN74HC595 shift register
