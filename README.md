@@ -19,3 +19,22 @@ This specific project is a KeyPadLock.
 * **/img** contains images from project and parts
 * **/LICENSE** 
 * **/README.md** full information about this project
+
+
+Team
+=====
+
+* Moiz Khan -- writing and code part
+* Jingneng Li -- Code and hardware 
+* Likun Zhang -- Repository 
+
+Credits
+=======
+
+https://www.youtube.com/watch?v=HE-PFaakFEE
+* How to Make a Keypad Lock With an Arduino - JLaservideo 
+
+
+* we get arduino kepad library from
+http://www.jlaservideo.com/project-downloads/
+* DIY PROJECTS AND INVENTIONS BY JAKE LASER
