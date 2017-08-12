@@ -29,12 +29,12 @@ Team
 * Likun Zhang -- Repository 
 
 Credits
-=======
-*
+=======  
+
 * keypad toturial
 * https://www.youtube.com/watch?v=HE-PFaakFEE
-* How to Make a Keypad Lock With an Arduino - JLaservideo 
-*
+* How to Make a Keypad Lock With an Arduino - JLaservideo   
+
 * we get arduino kepad library from.
 * http://www.jlaservideo.com/project-downloads/
 * DIY PROJECTS AND INVENTIONS BY JAKE LASER
