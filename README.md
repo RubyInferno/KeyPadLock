@@ -10,11 +10,12 @@ This specific project is a KeyPadLock.
 
 # Repository Contents
 
-* **/src** (.ino, .cpp).
-* **/hardware** (.ftz, .brd, .sch, .stl).
+* **/src** (.ino, .cpp)
+* **/Code** code for our project
+* **/hardware** (.ftz, .brd, .sch, .stl)
 * **/build** 
-* **/libraries**
+* **/libraries** some code's libraries
 * **/examples** 
-* **/img** 
+* **/img** contains images from project and parts
 * **/LICENSE** 
-* **/README.md** 
+* **/README.md** full information about this project
