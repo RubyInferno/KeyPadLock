@@ -4,7 +4,7 @@ Moiz Khan,Jingneng Li, Likun Zhang, we are using this one account to share every
 
 * **we start project a bit late, so the update around 29th July** 
 
-This specific project is a KeyPadLock. 
+This specific project is a KeyPadLock-prototype. 
 
 ![image](https://github.com/RubyInferno/KeyPadLock/blob/master/Images/%E7%85%A7%E7%89%87%202017-8-7%2015%2036%2033.jpg?raw=true)
 
@@ -31,7 +31,7 @@ Team
 Credits
 =======  
   
-keypad toturial
+Prototype keypad toturial
 * https://www.youtube.com/watch?v=HE-PFaakFEE
 * How to Make a Keypad Lock With an Arduino - JLaservideo   
   
