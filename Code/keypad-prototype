@@ -1,5 +1,5 @@
 // How to Make an Arduino Keypad Lock
-// Jlaservideo.com
+// copyright reserved Jlaservideo.com
 
 #include <Servo.h>
 #include <Keypad.h>
