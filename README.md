@@ -1,5 +1,7 @@
 # KeyPadLock
 
+In this project the team members shall implement a Keypad-Controlled Lock system, originally developed by John Boxall. The project describes a system that allows the user to enter a six-digit code into the system and the system returns true if the code entered by user matches the secret sixdigit code stored at the back-end of the system.[1]
+
 Moiz Khan,Jingneng Li, Likun Zhang, we are using this one account to share everything of our project. When we have thought of project we just log in this account and update some comment.
 
 * **we start project a bit late, so the update around 29th July** 
@@ -38,3 +40,6 @@ Prototype keypad toturial
 we get arduino kepad library from.
 * http://www.jlaservideo.com/project-downloads/
 * DIY PROJECTS AND INVENTIONS BY JAKE LASER
+
+first instruction reference from
+* [1] http://nostarch.s3.amazonaws.com/arduino_project33.pdf
