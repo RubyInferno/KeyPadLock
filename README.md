@@ -6,7 +6,7 @@ Moiz Khan,Jingneng Li, Likun Zhang, we are using this one account to share every
 
 * **we start project a bit late, so the update around 29th July** 
 
-This specific project is a KeyPadLock-prototype. 
+This specific project is a KeyPadLock-prototype. This prototype just installed motor and keypad. It just has basic option suchas enter 4 digits to unlock and when it unlocked the green led will light up and when enter wrong password the red led will light up. 
 
 ![image](https://github.com/RubyInferno/KeyPadLock/blob/master/Images/prototyper.jpg)
 
