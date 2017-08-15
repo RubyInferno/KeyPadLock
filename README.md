@@ -6,9 +6,13 @@ Moiz Khan,Jingneng Li, Likun Zhang, we are using this one account to share every
 
 * **we start project a bit late, so the update around 29th July** 
 
-This specific project is a KeyPadLock-prototype. This prototype just installed motor and keypad. It just has basic option suchas enter 4 digits to unlock and when it unlocked the green led will light up and when enter wrong password the red led will light up. 
+This specific project is a KeyPadLock-prototype 01. Prototype 01 just installed motor and keypad. It just has basic option suchas enter 4 digits to unlock and when it unlocked the green led will light up and when enter wrong password the red led will light up. 
 
 ![image](https://github.com/RubyInferno/KeyPadLock/blob/master/Images/prototyper.jpg)
+
+The picture below is Prototype 02. The Prototype 02 is installed with motor, 4x4 KeyPad and monitor by using Arduino mega. This prototype 02 is trying to make monitor display password and when password is correct the motor will unlock and green led light up. Also when enter wrong password red led gonna light up. Right now we want to extend more option for this prototype 02 such as adds sound buzzer to make some sound after push keypad button or after open the lock paly some midi music.
+![image](https://github.com/RubyInferno/KeyPadLock/blob/master/Images/Prototype02.jpg)
+
 
 # Repository Contents
 
