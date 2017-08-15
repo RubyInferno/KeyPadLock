@@ -43,3 +43,11 @@ we get arduino kepad library from.
 
 first instruction reference from
 * [1] http://nostarch.s3.amazonaws.com/arduino_project33.pdf
+
+keypad-prototype's code copyright reserved from http://www.jlaservideo.com
+
+part of KeyPadLock-with-monitor from
+* http://www.instructables.com/id/Arduino-password-lock/
+
+The Buzzer code
+* http://www.instructables.com/id/How-to-use-a-Buzzer-Arduino-Tutorial/
