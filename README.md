@@ -23,7 +23,6 @@ The picture below is Prototype 02. The Prototype 02 is installed with motor, 4x4
 * **/libraries** some code's libraries
 * **/examples**  images that we thought about our future projects
 * **/img** contains images from project and parts
-* **/LICENSE** 
 * **/README.md** full information about this project
 
 # Requirements and Materials
