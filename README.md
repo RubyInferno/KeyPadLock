@@ -21,7 +21,7 @@ The picture below is Prototype 02. The Prototype 02 is installed with motor, 4x4
 * **/hardware** (.ftz, .brd, .sch, .stl)
 * **/build** 
 * **/libraries** some code's libraries
-* **/examples** 
+* **/examples**  images that we thought about our future projects
 * **/img** contains images from project and parts
 * **/LICENSE** 
 * **/README.md** full information about this project
