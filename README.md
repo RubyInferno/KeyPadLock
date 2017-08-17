@@ -26,6 +26,19 @@ The picture below is Prototype 02. The Prototype 02 is installed with motor, 4x4
 * **/LICENSE** 
 * **/README.md** full information about this project
 
+# Requirements and Materials
+
+* important libraries that alredeady uploaded to library folder
+
+Bill of Materials:
+* 1 x 4x4 keypad
+* 1 x green LED
+* 1 x red LED
+* 1 x buzzer
+* 1 x motor
+* 1 x monitor
+* 1 x breadboard
+* 1 x Arduino Mega
 
 Team
 =====
