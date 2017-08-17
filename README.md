@@ -30,13 +30,13 @@ The following picture shows KeyPadLock Prototype 03. The prototype 03 can doing 
 # Requirements and Materials
 
 Library
-* keypad with monitor and motor
+* keypad with monitor and motor  
 https://github.com/RubyInferno/KeyPadLock/blob/master/libraries/keypad.zip
 
 * buzzer
-https://github.com/RubyInferno/KeyPadLock/blob/master/libraries/The_Buzzer__RickRolled_.zip
+https://github.com/RubyInferno/KeyPadLock/blob/master/libraries/The_Buzzer__RickRolled_.zip  
 
-* Arduino with 4x4 keypad and motor(no monitor)
+* Arduino with 4x4 keypad and motor(no monitor)  
 https://github.com/RubyInferno/KeyPadLock/blob/master/libraries/Arduino-Keypad-Software.zip
 
 Bill of Materials:
