@@ -19,13 +19,12 @@ The following picture shows KeyPadLock Prototype 03. The prototype 03 can doing 
 
 # Repository Contents
 
-* **/Code** code for our project
+* **/Code** code for our project (.ino, .cpp)
 * **/img** contains images from project and parts
 * **/build** 
 * **/examples**  images that we thought about our future projects
 * **/hardware** (.ftz, .brd, .sch, .stl)
 * **/libraries** some code's libraries
-* **/src** (.ino, .cpp)
 * **/README.md** full information about this project
 
 # Requirements and Materials
