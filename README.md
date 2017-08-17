@@ -13,16 +13,19 @@ This specific project is a KeyPadLock-prototype 01. Prototype 01 just installed 
 The picture below is Prototype 02. The Prototype 02 is installed with motor, 4x4 KeyPad and monitor by using Arduino mega. This prototype 02 is trying to make monitor display password and when password is correct the motor will unlock and green led light up. Also when enter wrong password red led gonna light up. Right now we want to extend more option for this prototype 02 such as adds sound buzzer to make some sound after push keypad button or after open the lock paly some midi music.
 ![image](https://github.com/RubyInferno/KeyPadLock/blob/master/Images/Prototype02.jpg)
 
+The following picture shows KeyPadLock Prototype 03. The prototype 03 can doing both lock and unlock ways. Also prototype 03 has sound feature. It can has sound while push every button in the 4x4 keypad. After unlock and lcok there will have some midi music come out frome buzzer. The monitor also will show some words such as welcome, open lock or lock got armed. For now, prototype 03 has all features that we planed before. We problebly gonna make as more as we can. It depends on how many time we left. If no time to make, the prototype 03 gonna be our final goal. By the way we will make its outside more "beautiful" than prototype 03 for sure.
+![image](https://github.com/RubyInferno/KeyPadLock/blob/master/Images/prototype03.jpg)
+
 
 # Repository Contents
 
-* **/src** (.ino, .cpp)
 * **/Code** code for our project
-* **/hardware** (.ftz, .brd, .sch, .stl)
-* **/build** 
-* **/libraries** some code's libraries
-* **/examples**  images that we thought about our future projects
 * **/img** contains images from project and parts
+* **/build** 
+* **/examples**  images that we thought about our future projects
+* **/hardware** (.ftz, .brd, .sch, .stl)
+* **/libraries** some code's libraries
+* **/src** (.ino, .cpp)
 * **/README.md** full information about this project
 
 # Requirements and Materials
