@@ -33,7 +33,7 @@ Library
 * keypad with monitor and motor  
 https://github.com/RubyInferno/KeyPadLock/blob/master/libraries/keypad.zip
 
-* buzzer
+* buzzer  
 https://github.com/RubyInferno/KeyPadLock/blob/master/libraries/The_Buzzer__RickRolled_.zip  
 
 * Arduino with 4x4 keypad and motor(no monitor)  
