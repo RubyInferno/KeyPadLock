@@ -41,6 +41,7 @@ https://github.com/RubyInferno/KeyPadLock/blob/master/libraries/The_Buzzer__Rick
 
 * Arduino with 4x4 keypad and motor(no monitor)  
 https://github.com/RubyInferno/KeyPadLock/blob/master/libraries/Arduino-Keypad-Software.zip
+* some libraries already include in Arduino IDE
 
 Bill of Materials:
 * 1 x 4x4 keypad
