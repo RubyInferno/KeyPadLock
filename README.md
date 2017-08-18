@@ -72,14 +72,14 @@ Bill of Materials:
 * Try anything you want (hope everyone enjoy those tones XD )
 
 # Team
-=====
+
 
 * Moiz Khan -- writing and code part
 * Jingneng Li -- Code and hardware 
 * Likun Zhang -- Repository 
 
 # Credits
-=======  
+  
   
 Prototype keypad toturial
 * https://www.youtube.com/watch?v=HE-PFaakFEE
