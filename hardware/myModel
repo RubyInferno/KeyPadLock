@@ -1,7 +1,8 @@
-use Arduino UNO
-4*4kepad
+
+4*4keypad
 motor
-sound sensor
+buzzer
 breadboard
-SN74HC595 shift register
-probably useing arduino mega
+arduino mega
+paper arrow
+battery box
