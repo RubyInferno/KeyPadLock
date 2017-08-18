@@ -16,7 +16,7 @@ The picture below is Prototype 02. The Prototype 02 is installed with motor, 4x4
 The following picture shows KeyPadLock Prototype 03. The prototype 03 can doing both lock and unlock ways. Also prototype 03 has sound feature. It can has sound while push every button in the 4x4 keypad. After unlock and lcok there will have some midi music come out frome buzzer. The monitor also will show some words such as welcome, open lock or lock got armed. For now, prototype 03 has all features that we planed before. We problebly gonna make as more as we can. It depends on how many time we left. If no time to make, the prototype 03 gonna be our final goal. By the way we will make its outside more "beautiful" than prototype 03 for sure.
 ![image](https://github.com/RubyInferno/KeyPadLock/blob/master/Images/prototype03.jpg)
 
-Finally we finished our final version of ou KeyPadLock!! The following picture is showing our final version and design of appearence.(i know its not that beautiful...) The hardware as same as prototype 03. We don't have enough time to give it more features because some of our parts still in delivery(sad..). So we just give it beautiful skin and let it looks more similiar to a real KeyPadLook.
+Finally we finished our final version of ou KeyPadLock!! The following picture is showing our final version and design of appearence.(i know its not that beautiful...) The hardware as same as prototype 03. We don't have enough time to give it more features because some of our parts still in delivery(sad..). So we just give it beautiful skin and let it looks more similiar to a real KeyPadLook. Default state is locked when enter correct password the arrow gonna rotated 90 to right. If password is wrong, red led will light up. Also we can input same unlock password to lock it again. At the end, We didn't test how many times we can input wrong password. After lock and unlock, it will play 2 different tones.(hope someone can guess these 2 songs. BTW there is no award...)
 
 ![image](https://github.com/RubyInferno/KeyPadLock/blob/master/Images/final-version.jpg)
 
@@ -52,14 +52,32 @@ Bill of Materials:
 * 1 x breadboard
 * 1 x Arduino Mega
 
-Team
+# Firmware Installation
+* Read above instrcuion's picture and follow these steps  
+* Conect breadboard to Arduino mega
+* Conect motor to breadboard
+* Conect 4x4 Keypad to Arduino mega pin 45-50
+* Conect monitor to breadboard and use many cables conect monitor from breadboard to Arduino pin 1-8
+* Conect buzzer to breadboard
+* Conect red and green led to the breadboard
+* optional if you want, you can conect motor to a real lock
+
+# Usage
+* Plug the Arduino into the computer
+* Upload our project code to arduino
+(you can find code from here https://github.com/RubyInferno/KeyPadLock/blob/master/Code/Project.zip)
+* After upload code to arduino, you can use battrty box to power the arduino
+* Here the project should be start
+* Try anything you want (hope everyone enjoy those tones XD )
+
+# Team
 =====
 
 * Moiz Khan -- writing and code part
 * Jingneng Li -- Code and hardware 
 * Likun Zhang -- Repository 
 
-Credits
+# Credits
 =======  
   
 Prototype keypad toturial
