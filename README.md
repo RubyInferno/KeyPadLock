@@ -16,6 +16,9 @@ The picture below is Prototype 02. The Prototype 02 is installed with motor, 4x4
 The following picture shows KeyPadLock Prototype 03. The prototype 03 can doing both lock and unlock ways. Also prototype 03 has sound feature. It can has sound while push every button in the 4x4 keypad. After unlock and lcok there will have some midi music come out frome buzzer. The monitor also will show some words such as welcome, open lock or lock got armed. For now, prototype 03 has all features that we planed before. We problebly gonna make as more as we can. It depends on how many time we left. If no time to make, the prototype 03 gonna be our final goal. By the way we will make its outside more "beautiful" than prototype 03 for sure.
 ![image](https://github.com/RubyInferno/KeyPadLock/blob/master/Images/prototype03.jpg)
 
+Finally we finished our final version of ou KeyPadLock!! The following picture is showing our final version and design of appearence.(i know its not that beautiful...) The hardware as same as prototype 03. We don't have enough time to give it more features because some of our parts still in delivery(sad..). So we just give it beautiful skin and let it looks more similiar to a real KeyPadLook.
+
+![image](https://github.com/RubyInferno/KeyPadLock/blob/master/Images/final-version.jpg)
 
 # Repository Contents
 
