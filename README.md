@@ -53,6 +53,14 @@ Bill of Materials:
 * 1 x breadboard
 * 1 x Arduino Mega
 
+# Build Instructions
+
+* Schematic of project build
+![image](https://github.com/RubyInferno/KeyPadLock/blob/master/Images/circuit.jpg)
+
+
+
+
 # Firmware Installation
 * Read above instrcuion's picture and follow these steps  
 * Conect breadboard to Arduino mega
