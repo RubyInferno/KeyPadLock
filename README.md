@@ -58,7 +58,8 @@ Bill of Materials:
 * Schematic of project build
 ![image](https://github.com/RubyInferno/KeyPadLock/blob/master/Images/circuit.jpg)
 
-
+sorry for making this pic so hard to see exactlly line in which part. This software made me crazy...
+![image](https://github.com/RubyInferno/KeyPadLock/blob/master/Images/fritzing.jpg)
 
 
 # Firmware Installation
