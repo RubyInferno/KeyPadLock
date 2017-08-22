@@ -6,7 +6,7 @@ Moiz Khan,Jingneng Li, Likun Zhang, we are using this one account to share every
 
 * **we start project a bit late, so the update around 29th July** 
 
-This specific project is a KeyPadLock-prototype 01. Prototype 01 just installed motor and keypad. It just has basic option suchas enter 4 digits to unlock and when it unlocked the green led will light up and when enter wrong password the red led will light up. 
+This specific project is a KeyPadLock-prototype 01. Initially we had an Arduino UNO as our main unit & it did prove to be sufficient as far as all the connections to the components were concerned. The Key-pad was successfully attached with the Arduino, the team had no problems in hooking up all the necessary wires with the Arduino connecting it to the bread-board. The servo motor, LEDs & the Buzzer were also connected successfully to the Arduino. However, when the team tried connecting the LCD to the Arduino they realised that the Arduino had fallen short of input slots making it impossible for us to connect the LCD.
 
 ![image](https://github.com/RubyInferno/KeyPadLock/blob/master/Images/prototyper.jpg)
 
